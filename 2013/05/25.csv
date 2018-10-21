@@ -1,0 +1,16 @@
+Performed At,Exercise,Exercise#,Set#,IsPR,String,Weight,Reps,Duration
+2013-05-25 20:22,Squat,1,1,0,115 lbs x 5 reps,115 lbs,5,
+2013-05-25 20:22,Squat,1,2,0,140 lbs x 5 reps,140 lbs,5,
+2013-05-25 20:22,Squat,1,3,0,170 lbs x 3 reps,170 lbs,3,
+2013-05-25 20:22,Squat,1,4,0,185 lbs x 5 reps,185 lbs,5,
+2013-05-25 20:22,Squat,1,5,0,210 lbs x 5 reps,210 lbs,5,
+2013-05-25 20:22,Squat,1,6,0,240 lbs x 5 reps,240 lbs,5,
+2013-05-25 20:22,Deadlift,2,1,0,165 lbs x 10 reps,165 lbs,10,
+2013-05-25 20:22,Deadlift,2,2,0,165 lbs x 10 reps,165 lbs,10,
+2013-05-25 20:22,Deadlift,2,3,0,165 lbs x 10 reps,165 lbs,10,
+2013-05-25 20:22,Deadlift,2,4,0,165 lbs x 10 reps,165 lbs,10,
+2013-05-25 20:22,Deadlift,2,5,1,165 lbs x 10 reps,165 lbs,10,
+2013-05-25 20:22,Curl,3,1,0,55 lbs x 8 reps,55 lbs,8,
+2013-05-25 20:22,Curl,3,2,0,55 lbs x 8 reps,55 lbs,8,
+2013-05-25 20:22,Curl,3,3,1,55 lbs x 8 reps,55 lbs,8,
+2013-05-25 20:22,Foam Rolling,4,1,0,20:00,,,1200 sec

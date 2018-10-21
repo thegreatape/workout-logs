@@ -1,0 +1,19 @@
+Performed At,Exercise,Exercise#,Set#,IsPR,String,Duration,Weight,Reps
+2013-10-14 10:42,Foam Rolling,1,1,0,15:00,900 sec,,
+2013-10-14 10:42,Squat,2,1,0,125 lbs x 5 reps,,125 lbs,5
+2013-10-14 10:42,Squat,2,2,0,155 lbs x 5 reps,,155 lbs,5
+2013-10-14 10:42,Squat,2,3,0,185 lbs x 5 reps,,185 lbs,5
+2013-10-14 10:42,Squat,2,4,0,215 lbs x 5 reps,,215 lbs,5
+2013-10-14 10:42,Squat,2,5,0,245 lbs x 5 reps,,245 lbs,5
+2013-10-14 10:42,Bench Press,3,1,0,90 lbs x 5 reps,,90 lbs,5
+2013-10-14 10:42,Bench Press,3,2,0,110 lbs x 5 reps,,110 lbs,5
+2013-10-14 10:42,Bench Press,3,3,0,135 lbs x 5 reps,,135 lbs,5
+2013-10-14 10:42,Bench Press,3,4,0,155 lbs x 5 reps,,155 lbs,5
+2013-10-14 10:42,Bench Press,3,5,0,175 lbs x 5 reps,,175 lbs,5
+2013-10-14 10:42,Pendlay Row,4,1,0,80 lbs x 5 reps,,80 lbs,5
+2013-10-14 10:42,Pendlay Row,4,2,0,100 lbs x 5 reps,,100 lbs,5
+2013-10-14 10:42,Pendlay Row,4,3,0,115 lbs x 5 reps,,115 lbs,5
+2013-10-14 10:42,Pendlay Row,4,4,0,135 lbs x 5 reps,,135 lbs,5
+2013-10-14 10:42,Pendlay Row,4,5,0,155 lbs x 5 reps,,155 lbs,5
+2013-10-14 10:42,Weighted Hyperextension,5,1,0,25 lbs x 8 reps,,25 lbs,8
+2013-10-14 10:42,Weighted Hyperextension,5,2,1,25 lbs x 8 reps,,25 lbs,8
